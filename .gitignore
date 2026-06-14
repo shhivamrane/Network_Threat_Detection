@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+node_modules/
+dist/
+.DS_Store
+*.pcap
